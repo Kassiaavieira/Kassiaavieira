@@ -1,4 +1,4 @@
-### Hi! I am Kássia, Front-end developer
+### Hi! I am Kássia, FullStack developer
 
 <div align="center">
   <a href="https://github.com/Kassiaavieira">
