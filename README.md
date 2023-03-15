@@ -1,6 +1,10 @@
 ### Hi! I am Kássia, FullStack developer
 
 <div align="center">
+  <div>
+    <a href = "mailto:vieirakassia05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/k%C3%A1ssia-vieira-66288a195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
   <a href="https://github.com/Kassiaavieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassiaavieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -13,8 +17,5 @@
   <img align="center" alt="kassia-postegres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 
 ##
-<div>
-  <a href = "mailto:vieirakassia05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/k%C3%A1ssia-vieira-66288a195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ 
 
